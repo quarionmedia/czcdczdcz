@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\kaust\AndroidStudioProjects\Dooo\nativetemplates"
+    name=":nativetemplates"
+    type="LIBRARY"
+    maven="Dooo:nativetemplates:unspecified"
+    agpVersion="8.9.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\kaust\AppData\Local\Android\Sdk\platforms\android-30\android.jar;C:\Users\kaust\AppData\Local\Android\Sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
